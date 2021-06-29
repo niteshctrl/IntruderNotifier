@@ -5,7 +5,7 @@
 
 ---
 
-## Future Improvements:
+## Improvements TBD:
 - [ ] Reduce Inference latency
 
  Currently, the function calls have the following time delays:
