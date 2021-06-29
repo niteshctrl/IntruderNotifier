@@ -1,7 +1,9 @@
 # Real-Time Intruder Notifier(Camera Feed)
 
-## Under Construction. Patience is the key!!
+## Under Construction. 
+#### Patience is the key!! Meanwhile take a pair of dumbbells and take a view of [Biceps Curl Counter](https://github.com/niteshctrl/BicepCurlCounter)
 
+---
 
 ## Future Improvements:
 - [ ] Reduce Inference latency
