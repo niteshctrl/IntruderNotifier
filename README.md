@@ -1,7 +1,7 @@
 # Real-Time Intruder Notifier(BETA)
 
 ## Under Construction. 
-#### Patience is the key!! Meanwhile take a pair of dumbbells and take a view of [Biceps Curl Counter](https://github.com/niteshctrl/BicepCurlCounter)
+#### Patience is the key!! Meanwhile grab a pair of dumbbells and have a look at [Biceps Curl Counter](https://github.com/niteshctrl/BicepCurlCounter)
 
 ---
 
