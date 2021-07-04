@@ -7,6 +7,7 @@
 
 ## Improvements TBD:
 - [ ] Reduce Inference latency
+- [ ] Use multiprocessing to save video(OpenCV) and process video(YOLO) simultaneously.
 
  Currently, the function calls have the following time delays:
 
